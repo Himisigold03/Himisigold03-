@@ -1,8 +1,12 @@
-# 👋 Hi, I'm Aishat
+## 👋 Hi, I'm Aishat
 
-**Medical student | Health tech enthusiast | Research enthusiast | Data Analyst - | Excel | Power BI | SQL | Python **
+**Medical Student | Aspiring Data Analyst | Health Tech Enthusiast | Research Enthusiast**
 
-I use data analytics to solve problems in healthcare. This page is an index of my projects, grouped by topic.
+I turn data into insights that support better decisions and solve real-world problems, with a particular interest in healthcare and public health.
+
+**Tools:** Excel · Power BI · SQL · Python
+
+This repository serves as an index of my projects, organized by topic.
 
 ---
 
